@@ -1,0 +1,13 @@
+# Ignore .env file for security
+.env
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints
